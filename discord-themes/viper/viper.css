@@ -1,12 +1,12 @@
 @import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
-    --transparencycolor: 3,38,15;
-    --transparencyalpha: 0.2;
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
     --messagetransparency: 0.5;
     --guildchanneltransparency: 0.2;
-    --memberlistransparency: 0.05;
-    --accentcolor: 55,140,20;
-    --background: url("https://raw.githubusercontent.com/AsukaNocturnia/justrandomstuff/main/discord-themes/viper/viper-40.jpg");
+    --memberlistransparency: 0;
+    --accentcolor: 76,238,0;
+    --background: url("https://raw.githubusercontent.com/AsukaNocturnia/justrandomstuff/main/discord-themes/viper/viper-20.jpg");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
